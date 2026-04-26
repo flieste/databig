@@ -1,0 +1,11 @@
+{
+    "categorical": {},
+    "numeric": {
+        "confirmed": {
+            "colors": "diverging_bwr_40_95_c42"
+        },
+        "deaths": {
+            "colors": "diverging_bwr_40_95_c42"
+        }
+    }
+}
